@@ -34,7 +34,7 @@ Premium SaaS link shortening platform with real-time analytics, QR codes, and mu
 
 ## Quick Start
 
-1. Clone to `C:\xampp\htdocs\TekuURL\`
+1. `git clone https://github.com/TekuStudio/TekuURL.git C:\xampp\htdocs\TekuURL`
 2. Import `schema.sql` and `schema_v2.sql` into MySQL database `tekuurl`
 3. Configure `config.php` (DB credentials, Stripe keys — placeholders included)
 4. Start Apache + MySQL from XAMPP
