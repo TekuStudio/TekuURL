@@ -72,4 +72,4 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
-Built with ❤️ and cafeína by TuStudio.
+Built with ❤️ and cafeína by TekuStudio.
